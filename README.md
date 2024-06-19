@@ -1,0 +1,1 @@
+# dcgan_stamp_generation
